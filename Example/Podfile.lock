@@ -1,0 +1,16 @@
+PODS:
+  - MonthlyCalendar (0.1.0)
+
+DEPENDENCIES:
+  - MonthlyCalendar (from `../`)
+
+EXTERNAL SOURCES:
+  MonthlyCalendar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MonthlyCalendar: 98ef329be5eb6377701c925d9753f33fcb223d1d
+
+PODFILE CHECKSUM: e1935ecf52b110ce35620f6db775bb17c13501bb
+
+COCOAPODS: 1.12.1
